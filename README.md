@@ -1,6 +1,6 @@
 ## PHP Doctrine Basic Terminal
 
-![PHP Version Support](https://img.shields.io/badge/php-7.2.5%2B-brightgreen.svg?style=flat-square) ![Composer Version Support](https://img.shields.io/badge/composert-2.2.9%2B-brightgreen.svg?style=flat-square)
+![PHP Version Support](https://img.shields.io/badge/php-8.1%2B-brightgreen.svg?style=flat-square) ![Composer Version Support](https://img.shields.io/badge/composer-2.2.9%2B-brightgreen.svg?style=flat-square)
 
 It is an example of using a doctrine with php via a terminal command and sqlite, in a student registration with a telephone relationship and courses linked to it.
 
