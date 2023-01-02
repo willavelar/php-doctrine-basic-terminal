@@ -67,3 +67,9 @@ php bin/student-search.php
 ```bash
 php bin/student-rename.php
 ```
+
+- Delete student
+
+```bash
+php bin/student-delete.php
+```
